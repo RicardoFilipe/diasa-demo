@@ -21,7 +21,7 @@
   font-family: "RobotoRegural", sans-serif;
 }
 #bsc-chat-container a {
-  color: #ff6600;
+  color: #ff0000;
 }
 #bsc-chat-container a:hover, #bsc-chat-container a:active, #bsc-chat-container a:visited {
   color: #8779e7;
@@ -32,7 +32,7 @@
 }
 #bsc-chat-container .bsc-header {
   flex: 65px 0 0;
-  background-color: #ff6600;
+  background-color: #ff0000;
   padding: 15px 20px;
   border-radius: 15px 15px 0 0;
 }
@@ -85,7 +85,7 @@
   overflow-x: hidden;
 }
 #bsc-chat-container .bsc-message-list .bsc-message-list-container .bsc-local .bsc-message {
-  background-color: #ff6600;
+  background-color: #ff0000;
   color: white;
   border-radius: 15px 15px 0 15px;
 }
@@ -107,7 +107,7 @@
 #bsc-chat-container .bsc-message-list .bsc-message-list-container .bsc-remote .bsc-message .dot-1,
 #bsc-chat-container .bsc-message-list .bsc-message-list-container .bsc-remote .bsc-message .dot-2,
 #bsc-chat-container .bsc-message-list .bsc-message-list-container .bsc-remote .bsc-message .dot-3 {
-  background-color: #ff6600;
+  background-color: #ff0000;
 }
 #bsc-chat-container .bsc-message-list .bsc-message-list-container .bsc-local .bsc-message-menuButtons-title,
 #bsc-chat-container .bsc-message-list .bsc-message-list-container .bsc-remote .bsc-message-menuButtons-title {
@@ -121,9 +121,9 @@
   padding: 0.25rem 0.5rem;
   border-radius: 6px;
   color: white;
-  background-color: #ff6600;
+  background-color: #ff0000;
   border: inherit;
-  border-color: #ff6600;
+  border-color: #ff0000;
   transition: color 0.15s ease-in-out, background-color 0.15s ease-in-out, border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
 }
 #bsc-chat-container .bsc-message-list .bsc-message-list-container .bsc-local .bsc-message-menuButtons-vertical :hover, #bsc-chat-container .bsc-message-list .bsc-message-list-container .bsc-local .bsc-message-menuButtons-horizontal :hover, #bsc-chat-container .bsc-message-list .bsc-message-list-container .bsc-local .bsc-message-menuButtons-grid :hover,
@@ -141,9 +141,9 @@
   line-height: 21px;
   padding: 0.375rem 0.75rem;
   border-radius: 0.2rem;
-  background-color: #ff6600;
+  background-color: #ff0000;
   border: inherit;
-  border-color: #ff6600;
+  border-color: #ff0000;
   color: #fff;
 }
 #bsc-chat-container .bsc-message-list .bsc-message-list-container .bsc-local .bsc-message-document button .bsc-message-document-icon,
@@ -186,7 +186,7 @@
 #bsc-chat-container .bsc-message-list .bsc-message-list-container .bsc-local .bsc-message-cards .swiper-button,
 #bsc-chat-container .bsc-message-list .bsc-message-list-container .bsc-remote .bsc-message-cards .swiper-button {
   border-radius: 6px;
-  background-color: #ff6600;
+  background-color: #ff0000;
 }
 #bsc-chat-container .bsc-message-list .bsc-message-list-container .bsc-local .bsc-message-cards .swiper-button-disabled,
 #bsc-chat-container .bsc-message-list .bsc-message-list-container .bsc-remote .bsc-message-cards .swiper-button-disabled {
@@ -276,9 +276,9 @@
   line-height: 21px;
   padding: 0.375rem 0.75rem;
   color: white;
-  background-color: #ff6600;
+  background-color: #ff0000;
   border: inherit;
-  border-color: #ff6600;
+  border-color: #ff0000;
   transition: color 0.15s ease-in-out, background-color 0.15s ease-in-out, border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
   align-items: center;
   max-width: 100%;
@@ -362,7 +362,7 @@
 }
 #bsc-chat-container .bsc-footer #bsc-footer-actions #bsc-send-button {
   border: none;
-  background-color: #ff6600;
+  background-color: #ff0000;
   margin-right: 5px;
   margin-left: 10px;
   mask-image: url("https://webchat-themes.ng.botschool.ai/private-themes/botschool2.0/icons/send.svg");
